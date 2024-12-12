@@ -55,7 +55,7 @@ _____
 #### Algunos de mis proyectos:
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocelynarayameza&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocelynarayameza&show_icons=true&locale=en&layout=compact" alt="jocelynarayameza" /></p>
 
 
 

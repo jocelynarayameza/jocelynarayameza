@@ -7,9 +7,9 @@ Apasionada y dedicada desarrolladora web con experiencia en la creación de inte
 #### Actualmente me dedico a:
 
 - Mejorar proyectos personales de desarrollo.💻
-- Finalizar estudios de full stack gracias a SENCE.👨‍🎓
+- Seguir aprendiendo a través de cursos y acertificaciones.👨‍🎓
 - Afianzar patrones y buenas prácticas de desarrollo.🖍️
-- Enseño inglés en una institución de educación superior, +5 años de experiencia docente.👩‍🏫
+- Enseño inglés en una institución de educación superior, 7 años de experiencia docente.👩‍🏫
 ---
 
 #### Tengo conocimientos sobre:

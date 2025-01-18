@@ -64,4 +64,6 @@ Apasionada y dedicada desarrolladora web con experiencia en la creación de inte
 <a href="mailto:arayameza.jocelyn@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="jocelyn araya meza" height="30" width="40" />arayameza.jocelyn@gmail.com</a>
 </p>
 
+## Revisa mis proyectos más importantes anclados en mi perfil 👇 
+
 ### ¡Gracias por visitar mi portafolio! 🌟

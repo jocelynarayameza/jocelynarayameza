@@ -6,7 +6,7 @@ Apasionada y dedicada desarrolladora web con experiencia en la creación de inte
 
 #### Actualmente me dedico a:
 
-- Desarrollar proyectos personales de pogramación web.💻
+- Desarrollar proyectos personales de programación web.💻
 - Seguir aprendiendo a través de cursos y certificaciones.👨‍🎓
 - Afianzar patrones y buenas prácticas de desarrollo.🖍️
 - Enseño inglés en una institución de educación superior, 7 años de experiencia docente.👩‍🏫

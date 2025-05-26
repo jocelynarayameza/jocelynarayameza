@@ -47,9 +47,9 @@ Apasionada y dedicada desarrolladora web con experiencia en la creación de inte
 
 #### Algunos de mis proyectos:
 
-| E-commerce React y Firebase                                                                                                                         | Conversor con gráfico                                                                                                                       | Sitio web Responsive                                                                                                                              |
+| Final Fantasy Marketplace                                                                                                                         | E-commerce React y Firebase                                                                                                                       | Sitio web Responsive                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/jocelynarayameza/proyecto_reactjs"> <img src="/img//1.PNG" width="250" height="200"/></a> | <a href="https://github.com/jocelynarayameza/desafio-apis" target="_blank"> <img src="/img/2.PNG" width="250" height="200"/></a> | <a href="https://jocelynarayameza.github.io/proyecto_desarrollo_web/"> <img src="/img/3.PNG" width="250" height="200"/></a> |
+| <a href="https://ff-marketplace.capybar.org/"> <img src="/img//1.PNG" width="250" height="200"/></a> |  <a href="https://github.com/jocelynarayameza/proyecto_reactjs"> <img src="/img//1.PNG" width="250" height="200"/></a> | <a href="https://jocelynarayameza.github.io/proyecto_desarrollo_web/"> <img src="/img/3.PNG" width="250" height="200"/></a> |
 
 ## 📊 Estadísticas
 
